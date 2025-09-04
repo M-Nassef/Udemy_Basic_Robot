@@ -1,0 +1,25 @@
+[0.021s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description
+[0.137s] -- The C compiler identification is GNU 9.4.0
+[0.215s] -- The CXX compiler identification is GNU 9.4.0
+[0.221s] -- Check for working C compiler: /usr/bin/cc
+[0.315s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.316s] -- Detecting C compiler ABI info
+[0.410s] -- Detecting C compiler ABI info - done
+[0.423s] -- Detecting C compile features
+[0.424s] -- Detecting C compile features - done
+[0.428s] -- Check for working CXX compiler: /usr/bin/c++
+[0.535s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.537s] -- Detecting CXX compiler ABI info
+[0.646s] -- Detecting CXX compiler ABI info - done
+[0.660s] -- Detecting CXX compile features
+[0.661s] -- Detecting CXX compile features - done
+[0.665s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.712s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.712s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.005s] CMake Error at CMakeLists.txt:21 (install):
+[1.005s]   install DIRECTORY given no DESTINATION!
+[1.005s] 
+[1.005s] 
+[1.091s] -- Configuring incomplete, errors occurred!
+[1.091s] See also "/home/mahmoud/udemy/new_ws/build/my_robot_description/CMakeFiles/CMakeOutput.log".
+[1.098s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description

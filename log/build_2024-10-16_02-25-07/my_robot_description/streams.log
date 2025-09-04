@@ -1,0 +1,32 @@
+[0.022s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description
+[0.047s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.088s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.339s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.433s] -- Configuring done
+[0.436s] -- Generating done
+[0.437s] -- Build files have been written to: /home/mahmoud/udemy/new_ws/build/my_robot_description
+[0.440s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description
+[0.442s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --build /home/mahmoud/udemy/new_ws/build/my_robot_description -- -j4 -l4
+[0.497s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --build /home/mahmoud/udemy/new_ws/build/my_robot_description -- -j4 -l4
+[0.546s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --install /home/mahmoud/udemy/new_ws/build/my_robot_description
+[0.558s] -- Install configuration: ""
+[0.558s] -- Execute custom install script
+[0.559s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[0.560s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[0.560s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[0.561s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[0.561s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[0.562s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[0.562s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[0.563s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[0.563s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[0.564s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[0.565s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[0.565s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[0.566s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[0.566s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[0.579s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[0.579s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[0.580s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[0.580s] -- Up-to-date symlink: /home/mahmoud/udemy/new_ws/install/my_robot_description/share/my_robot_description/package.xml
+[0.584s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --install /home/mahmoud/udemy/new_ws/build/my_robot_description

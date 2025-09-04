@@ -1,0 +1,10 @@
+[0.022s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description
+[0.046s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.087s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.350s] CMake Error at CMakeLists.txt:21 (install):
+[0.350s]   install DIRECTORY given no DESTINATION!
+[0.350s] 
+[0.351s] 
+[0.433s] -- Configuring incomplete, errors occurred!
+[0.434s] See also "/home/mahmoud/udemy/new_ws/build/my_robot_description/CMakeFiles/CMakeOutput.log".
+[0.437s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_description

@@ -1,0 +1,45 @@
+[0.032s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_bringup
+[0.193s] -- The C compiler identification is GNU 9.4.0
+[0.329s] -- The CXX compiler identification is GNU 9.4.0
+[0.337s] -- Check for working C compiler: /usr/bin/cc
+[0.458s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.460s] -- Detecting C compiler ABI info
+[0.582s] -- Detecting C compiler ABI info - done
+[0.611s] -- Detecting C compile features
+[0.612s] -- Detecting C compile features - done
+[0.615s] -- Check for working CXX compiler: /usr/bin/c++
+[0.749s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.751s] -- Detecting CXX compiler ABI info
+[0.889s] -- Detecting CXX compiler ABI info - done
+[0.916s] -- Detecting CXX compile features
+[0.917s] -- Detecting CXX compile features - done
+[0.926s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.989s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.989s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.322s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.505s] -- Configuring done
+[1.509s] -- Generating done
+[1.511s] -- Build files have been written to: /home/mahmoud/udemy/new_ws/build/my_robot_bringup
+[1.521s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake /home/mahmoud/udemy/new_ws/src/my_robot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/mahmoud/udemy/new_ws/install/my_robot_bringup
+[1.526s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --build /home/mahmoud/udemy/new_ws/build/my_robot_bringup -- -j4 -l4
+[1.600s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --build /home/mahmoud/udemy/new_ws/build/my_robot_bringup -- -j4 -l4
+[1.654s] Invoking command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --install /home/mahmoud/udemy/new_ws/build/my_robot_bringup
+[1.676s] -- Install configuration: ""
+[1.676s] -- Execute custom install script
+[1.676s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+[1.693s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[1.710s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[1.725s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[1.741s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[1.760s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[1.781s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[1.797s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[1.818s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[1.832s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[1.856s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[1.881s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[1.909s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[1.939s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[1.966s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[1.990s] -- Symlinking: /home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[2.021s] Invoked command in '/home/mahmoud/udemy/new_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mahmoud/colcon_ws/install/subscriber:/home/mahmoud/colcon_ws/install/my_first_pkg:/home/mahmoud/colcon_ws/install/continuum_visualize:/home/mahmoud/colcon_ws/src/install/subscriber:/home/mahmoud/colcon_ws/src/install/my_first_pkg:/home/mahmoud/colcon_ws/src/install/continuum_visualize:/opt/ros/foxy /usr/bin/cmake --install /home/mahmoud/udemy/new_ws/build/my_robot_bringup

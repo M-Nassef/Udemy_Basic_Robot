@@ -1,0 +1,17 @@
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup//rviz/my_robot_urdf_config.rviz
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+/home/mahmoud/udemy/new_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
